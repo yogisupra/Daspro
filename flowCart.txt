@@ -2,4 +2,5 @@ flow chart
 
 flowcart menggambarkan alur proses program yang akan dieksekusi
 
+penambahan kondisi atau percabangan
 
